@@ -69,3 +69,4 @@ for index in 0..<animals.count{
     print("I love " + animals[index])
 }
 
+var str = "This is for github"
